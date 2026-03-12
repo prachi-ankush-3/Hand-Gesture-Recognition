@@ -11,10 +11,11 @@ This project is a **real-time Hand Gesture Recognition system** that detects **A
 The main goal of this project is to help **people who cannot speak or hear communicate with others** using hand gestures. The system captures hand movements, processes them using **computer vision and deep learning**, and predicts the corresponding alphabet.
 
 ---
-<p align="center">
-  <img src="reference.jpg" width="300" alt="Hand Gesture Example">
-</p>
+## American Sign Language (ASL) alphabet
+
+![Hand Gesture Example](reference.jpg)
 ---
+
 # Project Overview
 
 Many people with speech disabilities rely on **sign language** to communicate. However, most people around them do not understand sign language.
