@@ -14,6 +14,7 @@ The main goal of this project is to help **people who cannot speak or hear commu
 <p align="center">
   <img src="reference.jpg" width="300" alt="Hand Gesture Example">
 </p>
+---
 # Project Overview
 
 Many people with speech disabilities rely on **sign language** to communicate. However, most people around them do not understand sign language.
