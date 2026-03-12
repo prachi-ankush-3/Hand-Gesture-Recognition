@@ -96,7 +96,7 @@ The trained model file is too large to upload directly to GitHub.
 Please download the trained model from the link below and place it inside the project folder.
 
 Download Model:
-[PASTE YOUR MODEL DOWNLOAD LINK HERE](https://drive.google.com/file/d/1NzlZbpuYE6pvX43onBqvivoaoZLjUDXp/view?usp=sharing)
+[gesture_model_finetuned2.keras](https://drive.google.com/file/d/1NzlZbpuYE6pvX43onBqvivoaoZLjUDXp/view?usp=sharing)
 
 File name should be:
 
