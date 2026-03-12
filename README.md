@@ -1,6 +1,4 @@
-Got it. You want a **professional README**, but written in a **natural student style** so it does **not look AI-generated or copied**. It should look like **you wrote it for your diploma project**. I’ll keep it **simple English, structured, and authentic** (good for recruiters too).
 
-You can paste this directly in **README.md**.
 
 ---
 
@@ -98,7 +96,7 @@ The trained model file is too large to upload directly to GitHub.
 Please download the trained model from the link below and place it inside the project folder.
 
 Download Model:
-PASTE YOUR MODEL DOWNLOAD LINK HERE
+[PASTE YOUR MODEL DOWNLOAD LINK HERE](https://drive.google.com/file/d/1NzlZbpuYE6pvX43onBqvivoaoZLjUDXp/view?usp=sharing)
 
 File name should be:
 
@@ -206,21 +204,6 @@ Support for numbers, words, and additional sign language gestures can be added.
 
 # Author
 
-Sita Sinha
-Diploma in Computer Engineering
+Prachi Ankush
 
-Interested in **Artificial Intelligence, Computer Vision, and building technology that solves real-world problems.**
 
----
-
-⭐ If you found this project useful, feel free to **star the repository**.
-
----
-
-If you want, I can also show you **3 small things that make your GitHub look very strong to recruiters**:
-
-* How to add **project screenshots in README**
-* How to add a **demo GIF of your gesture detection**
-* The **best GitHub tags for AI projects**
-
-These small things make your project look **10× more professional.**
