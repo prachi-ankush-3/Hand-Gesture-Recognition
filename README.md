@@ -111,7 +111,7 @@ gesture_model_finetuned2.keras
 Clone the repository:
 
 ```
-git clone https://github.com/your-username/Hand-Gesture-Recognition.git
+git clone https://github.com/prachi-ankush-3/Hand-Gesture-Recognition.git
 cd Hand-Gesture-Recognition
 ```
 
